@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10906685556",
+    "firebase_url": "https://eportal-e0803-default-rtdb.firebaseio.com",
+    "project_id": "eportal-e0803",
+    "storage_bucket": "eportal-e0803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10906685556:android:5d7eb5e757c68609b70121",
+        "android_client_info": {
+          "package_name": "com.example.eportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10906685556-leu54ab3ljmgkfd9gk83ku74mkoosh6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgN3PZzPyxCOl2zD2H2JGgl35lHb1AYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10906685556-leu54ab3ljmgkfd9gk83ku74mkoosh6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

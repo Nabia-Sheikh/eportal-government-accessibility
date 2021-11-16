@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D1:B0:D1:2F:DD:C3:31:C4:7C:D0:3D:68:2A:94:BE:83:9A:58:1D:4F%3Bcom.example.eportal
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.eportal
+
+    SHA-1 certificate fingerprint:
+    D1:B0:D1:2F:DD:C3:31:C4:7C:D0:3D:68:2A:94:BE:83:9A:58:1D:4F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAkTdh0hvcVInx6xXwaxMhZwAQ46l-KTBg</string>
+</resources>
